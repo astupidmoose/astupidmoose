@@ -1,9 +1,14 @@
-# Contact Info:
-Twitter: @olthoff
+### About me:
+I'm hear for the revolution. I enjoy technology and making things work. I like Bitcoin, so should you. I enjoy 3D printing, when it works. 
 
-# Some of the projects I use and support:
+### Contact Info:
+Twitter: [@olthoff](https://twitter.com/olthoff)  
+Telegram: [@astupidmoose](https://t.me/astupidmoose)  
+Keybase: @olthoff  
 
-Bitcoin || Coincards.com || BTCPay Server
+### Some of the projects I use and support:
+
+[Coincards.com](https://coincards.com) || [Bitcoin](https://bitcoin.org/en/) || [BTCPay Server](https://github.com/btcpayserver/btcpayserver)
 
 <!--
 **astupidmoose/astupidmoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
