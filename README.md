@@ -8,7 +8,7 @@ Keybase: @olthoff
 
 ### Some of the projects I use and support:
 
-[Coincards.com](https://coincards.com) || [Bitcoin](https://bitcoin.org/en/) || [BTCPay Server](https://github.com/btcpayserver/btcpayserver)
+[Coincards.com](https://coincards.com) || [Bitcoin](https://bitcoin.org/en/) || [BTCPay Server](https://github.com/btcpayserver/btcpayserver) || 3D Printing! 
 
 <!--
 **astupidmoose/astupidmoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
