@@ -4,7 +4,6 @@ I'm hear for the revolution. I enjoy technology and making things work. I like B
 ### Contact Info:
 Twitter: [@astupidmoose](https://twitter.com/astupidmoose)  
 Telegram: [@astupidmoose](https://t.me/astupidmoose)  
-Keybase: @olthoff  
 
 ### Some of the projects I use and support:
 
